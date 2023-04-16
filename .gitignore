@@ -3,6 +3,7 @@
 *.tar.gz
 venv/
 dist/
+.tox
 .tox/
 .pytest_cache/
 __pycache__
