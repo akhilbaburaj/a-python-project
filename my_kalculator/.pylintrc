@@ -1,0 +1,2 @@
+[MASTER]
+ignore=CVS,.git,flake8.egg-info
